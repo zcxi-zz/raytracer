@@ -12,6 +12,7 @@ To build, use open project in visual studio or use GCC.
 gcc *.cpp -o Output
 
 ### Future Changes
+Anti Aliasing
 Post processing, monte carlo soft shadows
 
 
